@@ -1,0 +1,1 @@
+shutdown.exe -s -t 5 -c "Computer will shut down in 5 seconds and will self-distruct"
